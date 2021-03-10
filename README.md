@@ -11,7 +11,7 @@ After the recent funding programmes, they have been able to raise around $ 10 mi
 And this is where you come in as a data analyst. Your job is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.  The datasets containing those socio-economic factors and the corresponding data dictionary are provided below.
 
 
-## Uploaded Documents:
+### Uploaded Documents:
 1. IPYTHON notebook
 2. Presentation with the recommendation of efficitively spending NGO Fund
 3. Subjective Questions related to modeling approach
